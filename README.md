@@ -1,6 +1,6 @@
 
 # Deepfake simple
-
+DeepFake Detection is the problem of recognizing false movies or pictures created using deep learning algorithms. Deepfakes are made by employing machine learning algorithms to edit or replace components of an original video or picture, such as a person's face. Deepfake detection seeks to recognize and differentiate such manipulations from actual videos or pictures.
 This is a small project on real or fake processed photo recognition with 70-89% accuracy.
 
 
